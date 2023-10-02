@@ -1,4 +1,4 @@
-These upcoming projects are a part of the council’s new data initiative:
+These projects are a part of the council’s new data initiative:
 
 - Public Tree Data Provide a list of all trees in the borough, which can be downloaded by the public for free from the Camden Council website. The Borough of Camden is committed to the “opendata” initiative and are interested in opening their data as much as possible to its citizens and to the world.
 - Tree Walks Brochures Create a series of “Tree Walks” brochures, each one of which is a guided walk around an individual park showing a map of the location of interesting trees.
