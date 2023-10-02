@@ -1,3 +1,5 @@
+**Retrieve User Activity Data**
+
 ChatData is a network of question-and-answer (Q&A) websites in the fields of data analytics, data science and artificial intelligence.
 It is needed to learn how ChatData sites are being used in the real world to understand which features are useful to the users and what additional features might be worth introducing.
 
