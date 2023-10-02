@@ -2,7 +2,7 @@ ChatData is a network of question-and-answer (Q&A) websites in the fields of dat
 It is needed to learn how ChatData sites are being used in the real world to understand which features are useful to the users and what additional features might be worth introducing.
 
 **Tasks:** 
-Using three separate CSV files attached: posts, comments and users
+Using three separate CSV files - posts, comments and users - the following tasks have to be done:
 1. Create an ERD.
 2. Create an SQLite database and load the data.
 3. Create single table queries to analyse engagement.
